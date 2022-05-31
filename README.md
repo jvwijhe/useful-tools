@@ -1,17 +1,22 @@
 # Useful tools 💥
 
-This repository contains a list of useful tools which I use on a regular basis while working on my projects. Some of these tools are more famous then others. 
+This repository contains a list of useful tools which I use on a regular basis while working on my projects. The repo contains tools that can be useful when working on content management, project management, SEO, Analytics or social media. 
+Some of these tools are more famous then others. 
 
 Feel free to submit a pull request containing any recommendations.
 If you want to promote your own product, feel free to do so.
 
+## Analytics and monitoring
+- [Better uptime](https://betteruptime.com) Website Uptime monitoring
+- [Google Analytics](https://analytics.google.com) Measure user behaviour
+- [Hotjar](https://www.hotjar.com) Website heatmaps, recordings and user feedback
 
 ## CMS
 - [Storyblok](https://www.storyblok.com) Organize your content for the world
 
 
 ## CRM
-- [Hubspot](https://www.hubspot.com)Easy-to-use CRM.
+- [Hubspot](https://www.hubspot.com) Easy-to-use CRM.
 
 
 ## Planning
@@ -20,6 +25,7 @@ If you want to promote your own product, feel free to do so.
 
 ## SEO
 - [aHrefs](https://www.ahrefs.com) All-in-one SEO toolset
+- [Google Search Console](https://search.google.com/search-console/) Optimize your website for the Google search results
 - [Toolhandle](https://www.toolhandle.com) Website SEO scanner & checklist
 
 
