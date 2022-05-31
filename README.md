@@ -1,10 +1,8 @@
 # Useful tools👋
 
-This repo contains useful tools which I use on a regular basis. Since there are loads of different tools out there, feel free to submit any recommendations.
+This repo contains useful tools which I use on a regular basis. Since there are loads of different tools out there, feel free to submit a pull request containg any recommendations.
 
 If you want to promote your own product, feel free to do so.
-
-
 
 ## Social media
 - [Grrp.me](https://www.grrp.me) Free to use link in bio service
