@@ -22,9 +22,9 @@ If you want to promote your own product, feel free to do so.
 
 
 ## Backend as a service
-- [AWS Amplify] ([https://aws.amazon.com/](https://aws.amazon.com/amplify/)) Build extensible, full-stack web and mobile apps faster. Easy to start, easy to scale.
+- [AWS Amplify](https://aws.amazon.com/amplify/) Build extensible, full-stack web and mobile apps faster. Easy to start, easy to scale.
 - [Firebase](https://firebase.google.com)  App development platform that helps you build and grow apps and games users love
-- [MongoDB Realm] (https://mongodb.com/realm) Build, deploy, and scale apps with ease.
+- [MongoDB Realm](https://mongodb.com/realm) Build, deploy, and scale apps with ease.
 
 
 ## Email
