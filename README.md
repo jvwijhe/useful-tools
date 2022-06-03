@@ -10,6 +10,7 @@ If you want to promote your own product, feel free to do so.
 - [Better uptime](https://betteruptime.com) Website Uptime monitoring
 - [Google Analytics](https://analytics.google.com) Measure user behaviour
 - [Hotjar](https://www.hotjar.com) Website heatmaps, recordings and user feedback
+- [Leadinfo](https://www.leadinfo.com/en/) Identifying your B2B website visitors.
 
 ## CMS
 - [Storyblok](https://www.storyblok.com) Organize your content for the world
@@ -23,13 +24,16 @@ If you want to promote your own product, feel free to do so.
 - [Sendgrid](https://www.sendgrid.com) Deliver exceptional email experiences.
 
 
+## Payments
+- [Stripe](https://www.stripe.com) Online payment infastructure.
+
+
 ## Planning
 - [Clickup](https://www.clickup.com) Task and project management.
 
 
-
-## Payments
-- [Stripe](https://www.stripe.com) Online payment infastructure.
+## PIM
+- [Channable](https://www.channable.com/nl) Feedmanagement
 
 
 ## SEO
