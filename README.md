@@ -10,7 +10,7 @@ If you want to promote your own product, feel free to do so.
 - [Better uptime](https://betteruptime.com) Website Uptime monitoring
 - [Google Analytics](https://analytics.google.com) Measure user behaviour
 - [Hotjar](https://www.hotjar.com) Website heatmaps, recordings and user feedback
-- [Leadinfo](https://www.leadinfo.com/en/) Identifying your B2B website visitors.
+- [Leadinfo](https://www.leadinfo.com/en/) Identifying your B2B website visitors
 
 
 ## Asset & Content management
@@ -18,19 +18,25 @@ If you want to promote your own product, feel free to do so.
 - [Storyblok](https://www.storyblok.com) Organize your content for the world
 
 ## CRM
-- [Hubspot](https://www.hubspot.com) Easy-to-use CRM.
+- [Hubspot](https://www.hubspot.com) Easy-to-use CRM
+
+
+## Backend as a service
+- [AWS Amplify] ([https://aws.amazon.com/](https://aws.amazon.com/amplify/)) Build extensible, full-stack web and mobile apps faster. Easy to start, easy to scale.
+- [Firebase](https://firebase.google.com)  App development platform that helps you build and grow apps and games users love
+- [MongoDB Realm] (https://mongodb.com/realm) Build, deploy, and scale apps with ease.
 
 
 ## Email
-- [Sendgrid](https://www.sendgrid.com) Deliver exceptional email experiences.
+- [Sendgrid](https://www.sendgrid.com) Deliver exceptional email experiences
 
 
 ## Payments
-- [Stripe](https://www.stripe.com) Online payment infastructure.
+- [Stripe](https://www.stripe.com) Online payment infastructure
 
 
 ## Planning
-- [Clickup](https://www.clickup.com) Task and project management.
+- [Clickup](https://www.clickup.com) Task and project management
 
 
 ## PIM
@@ -45,6 +51,6 @@ If you want to promote your own product, feel free to do so.
 
 ## Social media
 - [Grrp.me](https://www.grrp.me) Free to use link in bio service
-- [Feedhive](https://www.feedhive.io) Schedule all your social media content with Feedhive.
+- [Feedhive](https://www.feedhive.io) Schedule all your social media content with Feedhive
 
 
