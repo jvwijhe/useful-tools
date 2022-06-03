@@ -19,8 +19,17 @@ If you want to promote your own product, feel free to do so.
 - [Hubspot](https://www.hubspot.com) Easy-to-use CRM.
 
 
+## Email
+- [Sendgrid](https://www.sendgrid.com) Deliver exceptional email experiences.
+
+
 ## Planning
 - [Clickup](https://www.clickup.com) Task and project management.
+
+
+
+## Payments
+- [Stripe](https://www.stripe.com) Online payment infastructure.
 
 
 ## SEO
