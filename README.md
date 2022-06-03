@@ -12,9 +12,10 @@ If you want to promote your own product, feel free to do so.
 - [Hotjar](https://www.hotjar.com) Website heatmaps, recordings and user feedback
 - [Leadinfo](https://www.leadinfo.com/en/) Identifying your B2B website visitors.
 
-## CMS
-- [Storyblok](https://www.storyblok.com) Organize your content for the world
 
+## Asset & Content management
+- [Cloudinary](https://www.cloudinary.com) Streamline media management 
+- [Storyblok](https://www.storyblok.com) Organize your content for the world
 
 ## CRM
 - [Hubspot](https://www.hubspot.com) Easy-to-use CRM.
