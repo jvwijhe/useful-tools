@@ -8,6 +8,7 @@ If you want to promote your own product, feel free to do so.
 
 ## Analytics and monitoring
 - [Better uptime](https://betteruptime.com) Website Uptime monitoring
+- [Cloudflare](https://cloudflare.com) CDN, DNS, DDoS protection and security
 - [Google Analytics](https://analytics.google.com) Measure user behaviour
 - [Hotjar](https://www.hotjar.com) Website heatmaps, recordings and user feedback
 - [Leadinfo](https://www.leadinfo.com/en/) Identifying your B2B website visitors
